@@ -18,10 +18,10 @@ File: Task4.ipynb
 
 How to Run
 1. Clone the repository:
-   a)  git clone https://github.com/AryanArvind4/CodSoft.git
-   b) Install dependencies: (if needed)
-   c) pip install -r requirements.txt
-   d)Open and run Jupyter Notebooks:
+   -  git clone https://github.com/AryanArvind4/CodSoft.git
+   -  Install dependencies: (if needed)
+   - pip install -r requirements.txt
+   - Open and run Jupyter Notebooks:
 2. Use JupyterLab or Jupyter Notebook to explore and run the .ipynb files.
 
 
